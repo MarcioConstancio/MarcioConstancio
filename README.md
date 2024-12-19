@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Márcio Constâncio Jr</h1>
+<h1 align="center">Hi, I'm Márcio Constâncio Jr</h1>
 <h3 align="center">Physics teacher and data science enthusiast</h3>
 
-My name is Marcio Constâncio Junior, I am from Brazil and currently work as a physics teacher in high school. I'm studying in order to complete a carrer transition to data scientist or data analyst. For this reason, I’m currently learning **Python, SQL, data visualization, statistics and Machine Learning techniques**. 
+My name is Marcio Constâncio Junior, I am from Brazil and currently work as a physics teacher in high school. I'm studying in order to complete a carrer transition to data scientist or data analyst. I’m currently learning **Python, SQL, data visualization, statistics and Machine Learning techniques**. 
 Very soon, I'll upload all the work I have done here on github. 
 - 📫 You can reach me through the following e-mail address **marcio.constancio.jr@gmail.com**
 
